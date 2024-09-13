@@ -1,16 +1,7 @@
-# stop_watch
+# Stop Watch
+<img width="300" src="https://github.com/user-attachments/assets/ed3792c6-f0af-4970-bb0c-dfb991035977">
 
-stop watch
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Flutter sample app that demonstrates running a stopwatch in an Android foreground service using the [flutter_foreground_task](https://pub.dev/packages/flutter_foreground_task) package. The stopwatch continues to run in the foreground, even if the user closes the app after starting a stop watch
